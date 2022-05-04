@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="32.411">
+<testcase classname="Use Excel To Read Data" name="User is at homepage" time="32.017">
+<system-out><![CDATA[When User navigates to main yahoo page......................................passed
+And he navigates to sign in.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
